@@ -32,12 +32,12 @@
 172.64.33.155 d.rutor.is
 
 # additional domains
-194.31.175.103	themoviedb.org
-194.31.175.103  media.themoviedb.org
-194.31.175.103	www.themoviedb.org
-194.31.175.103	image.tmdb.org
-194.31.175.103	kino.pub
-194.31.175.103  www.kino.pub
+#194.31.175.103	themoviedb.org
+#194.31.175.103  media.themoviedb.org
+#194.31.175.103	www.themoviedb.org
+#194.31.175.103	image.tmdb.org
+#194.31.175.103	kino.pub
+#194.31.175.103  www.kino.pub
 212.192.220.99  themoviedb.org
 212.192.220.99  media.themoviedb.org
 212.192.220.99  www.themoviedb.org
