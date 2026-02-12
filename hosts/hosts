@@ -47,14 +47,15 @@
 212.192.220.99	ipinfusion.atlassian.net
 212.192.220.99	fileshare.ipinfusion.com
 212.192.220.99	atl-paas.net
-212.192.220.99	atlassian-dev.net
+#212.192.220.99	atlassian-dev.net
 212.192.220.99	atlassian.com
 212.192.220.99	atlassian.net
 212.192.220.99	bitbucket.io
 212.192.220.99	bitbucket.org
 212.192.220.99	jira.com
-212.192.220.99	ss-inf.net
+#212.192.220.99	ss-inf.net
 212.192.220.99	statuspage.io
+212.192.220.99  ifconfig.me
 
 # AMD
 45.155.204.190 amd.com
